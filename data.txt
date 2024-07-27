@@ -1,0 +1,200 @@
+HYD-GROC-001: Get 10% off on groceries at Big Bazaar, Hyderabad.
+HYD-GROC-002: Save ₹200 on your first order at Grofers, Hyderabad.
+HYD-GROC-003: Flat 5% off on groceries at More Supermarket, Hyderabad.
+HYD-GROC-004: Buy 1 Get 1 Free on select items at Ratnadeep, Hyderabad.
+HYD-GROC-005: 15% off on organic products at Nature's Basket, Hyderabad.
+HYD-ENT-001: 20% off on movie tickets at PVR Cinemas, Hyderabad.
+HYD-ENT-002: Flat ₹100 off on amusement park tickets at Wonderla, Hyderabad.
+HYD-ENT-003: Get 2 tickets for the price of 1 at Prasads IMAX, Hyderabad.
+HYD-ENT-004: 10% off on concert tickets at Shilpakala Vedika, Hyderabad.
+HYD-ENT-005: Save 15% on annual membership at Country Club, Hyderabad.
+HYD-TRAN-001: ₹50 off on your first ride with Ola, Hyderabad.
+HYD-TRAN-002: Flat 20% off on Uber rides in Hyderabad.
+HYD-TRAN-003: Save ₹100 on your first Zoomcar booking, Hyderabad.
+HYD-TRAN-004: Get 10% off on Rapido bike rides, Hyderabad.
+HYD-TRAN-005: Flat ₹200 off on RedBus bookings, Hyderabad.
+HYD-SHOP-001: 15% off on clothing at Lifestyle, Hyderabad.
+HYD-SHOP-002: Save ₹500 on purchases above ₹3000 at Shoppers Stop, Hyderabad.
+HYD-SHOP-003: Flat 10% off on electronics at Croma, Hyderabad.
+HYD-SHOP-004: 5% cashback on fashion items at Central Mall, Hyderabad.
+HYD-SHOP-005: Get ₹200 off on footwear at Bata, Hyderabad.
+HYD-FOOD-001: 20% off on dine-in at Barbeque Nation, Hyderabad.
+HYD-FOOD-002: Flat ₹150 off on Swiggy orders above ₹500, Hyderabad.
+HYD-FOOD-003: Get 1 Free Pizza on purchase of 2 at Domino's, Hyderabad.
+HYD-FOOD-004: 10% off on dine-in at Paradise Biryani, Hyderabad.
+HYD-FOOD-005: Save ₹100 on orders above ₹400 at Zomato, Hyderabad.
+HYD-CARE-001: 15% off on beauty services at Naturals, Hyderabad.
+HYD-CARE-002: Save ₹200 on spa services at O2 Spa, Hyderabad.
+HYD-CARE-003: Flat 10% off on haircuts at Lakme Salon, Hyderabad.
+HYD-CARE-004: 5% off on grooming products at Health & Glow, Hyderabad.
+HYD-CARE-005: Get ₹100 off on wellness packages at Four Fountains Spa, Hyderabad.
+HYD-HEALTH-001: Save ₹300 on annual gym membership at Talwalkars, Hyderabad.
+HYD-HEALTH-002: Flat 15% off on health checkups at Apollo Hospitals, Hyderabad.
+HYD-HEALTH-003: Get 10% off on yoga classes at Art of Living, Hyderabad.
+HYD-HEALTH-004: ₹200 off on first consultation at Cloudnine Hospitals, Hyderabad.
+HYD-HEALTH-005: Save 10% on fitness equipment at Decathlon, Hyderabad.
+HYD-TRAVEL-001: Flat ₹500 off on flight bookings via MakeMyTrip, Hyderabad.
+HYD-TRAVEL-002: 10% off on hotel bookings at OYO Rooms, Hyderabad.
+HYD-TRAVEL-003: Save ₹1000 on international tours with Yatra, Hyderabad.
+HYD-TRAVEL-004: ₹300 off on bus bookings with AbhiBus, Hyderabad.
+HYD-TRAVEL-005: Get 5% off on travel insurance at PolicyBazaar, Hyderabad.
+HYD-KIDS-001: 20% off on toys at Hamleys, Hyderabad.
+HYD-KIDS-002: Save ₹200 on baby products at FirstCry, Hyderabad.
+HYD-KIDS-003: Flat 10% off on kids' clothing at Mothercare, Hyderabad.
+HYD-KIDS-004: 5% off on school supplies at Staples, Hyderabad.
+HYD-KIDS-005: Get ₹100 off on kids' books at Crossword, Hyderabad.
+HYD-HOME-001: 15% off on home decor at Home Centre, Hyderabad.
+HYD-HOME-002: Save ₹500 on furniture at Pepperfry, Hyderabad.
+HYD-HOME-003: Flat 10% off on kitchen appliances at Prestige, Hyderabad.
+HYD-HOME-004: 5% cashback on home furnishings at Ikea, Hyderabad.
+HYD-HOME-005: Get ₹200 off on bedding at D'Decor, Hyderabad.
+CHE-GROC-001: Get 10% off on groceries at Big Bazaar, Chennai.
+CHE-GROC-002: Save ₹200 on your first order at Grofers, Chennai.
+CHE-GROC-003: Flat 5% off on groceries at More Supermarket, Chennai.
+CHE-GROC-004: Buy 1 Get 1 Free on select items at Ratnadeep, Chennai.
+CHE-GROC-005: 15% off on organic products at Nature's Basket, Chennai.
+CHE-ENT-001: 20% off on movie tickets at PVR Cinemas, Chennai.
+CHE-ENT-002: Flat ₹100 off on amusement park tickets at VGP Universal Kingdom, Chennai.
+CHE-ENT-003: Get 2 tickets for the price of 1 at Luxe Cinemas, Chennai.
+CHE-ENT-004: 10% off on concert tickets at Music Academy, Chennai.
+CHE-ENT-005: Save 15% on annual membership at Country Club, Chennai.
+CHE-TRAN-001: ₹50 off on your first ride with Ola, Chennai.
+CHE-TRAN-002: Flat 20% off on Uber rides in Chennai.
+CHE-TRAN-003: Save ₹100 on your first Zoomcar booking, Chennai.
+CHE-TRAN-004: Get 10% off on Rapido bike rides, Chennai.
+CHE-TRAN-005: Flat ₹200 off on RedBus bookings, Chennai.
+CHE-SHOP-001: 15% off on clothing at Lifestyle, Chennai.
+CHE-SHOP-002: Save ₹500 on purchases above ₹3000 at Shoppers Stop, Chennai.
+CHE-SHOP-003: Flat 10% off on electronics at Croma, Chennai.
+CHE-SHOP-004: 5% cashback on fashion items at Central Mall, Chennai.
+CHE-SHOP-005: Get ₹200 off on footwear at Bata, Chennai.
+CHE-FOOD-001: 20% off on dine-in at Barbeque Nation, Chennai.
+CHE-FOOD-002: Flat ₹150 off on Swiggy orders above ₹500, Chennai.
+CHE-FOOD-003: Get 1 Free Pizza on purchase of 2 at Domino's, Chennai.
+CHE-FOOD-004: 10% off on dine-in at Anjappar, Chennai.
+CHE-FOOD-005: Save ₹100 on orders above ₹400 at Zomato, Chennai.
+CHE-CARE-001: 15% off on beauty services at Naturals, Chennai.
+CHE-CARE-002: Save ₹200 on spa services at O2 Spa, Chennai.
+CHE-CARE-003: Flat 10% off on haircuts at Lakme Salon, Chennai.
+CHE-CARE-004: 5% off on grooming products at Health & Glow, Chennai.
+CHE-CARE-005: Get ₹100 off on wellness packages at Four Fountains Spa, Chennai.
+CHE-HEALTH-001: Save ₹300 on annual gym membership at Talwalkars, Chennai.
+CHE-HEALTH-002: Flat 15% off on health checkups at Apollo Hospitals, Chennai.
+CHE-HEALTH-003: Get 10% off on yoga classes at Art of Living, Chennai.
+CHE-HEALTH-004: ₹200 off on first consultation at Cloudnine Hospitals, Chennai.
+CHE-HEALTH-005: Save 10% on fitness equipment at Decathlon, Chennai.
+CHE-TRAVEL-001: Flat ₹500 off on flight bookings via MakeMyTrip, Chennai.
+CHE-TRAVEL-002: 10% off on hotel bookings at OYO Rooms, Chennai.
+CHE-TRAVEL-003: Save ₹1000 on international tours with Yatra, Chennai.
+CHE-TRAVEL-004: ₹300 off on bus bookings with AbhiBus, Chennai.
+CHE-TRAVEL-005: Get 5% off on travel insurance at PolicyBazaar, Chennai.
+CHE-KIDS-001: 20% off on toys at Hamleys, Chennai.
+CHE-KIDS-002: Save ₹200 on baby products at FirstCry, Chennai.
+CHE-KIDS-003: Flat 10% off on kids' clothing at Mothercare, Chennai.
+CHE-KIDS-004: 5% off on school supplies at Staples, Chennai.
+CHE-KIDS-005: Get ₹100 off on kids' books at Crossword, Chennai.
+CHE-HOME-001: 15% off on home decor at Home Centre, Chennai.
+CHE-HOME-002: Save ₹500 on furniture at Pepperfry, Chennai.
+CHE-HOME-003: Flat 10% off on kitchen appliances at Prestige, Chennai.
+CHE-HOME-004: 5% cashback on home furnishings at Ikea, Chennai.
+CHE-HOME-005: Get ₹200 off on bedding at D'Decor, Chennai.
+MUM-GROC-001: Get 10% off on groceries at Big Bazaar, Mumbai.
+MUM-GROC-002: Save ₹200 on your first order at Grofers, Mumbai.
+MUM-GROC-003: Flat 5% off on groceries at More Supermarket, Mumbai.
+MUM-GROC-004: Buy 1 Get 1 Free on select items at Ratnadeep, Mumbai.
+MUM-GROC-005: 15% off on organic products at Nature's Basket, Mumbai.
+MUM-ENT-001: 20% off on movie tickets at PVR Cinemas, Mumbai.
+MUM-ENT-002: Flat ₹100 off on amusement park tickets at EsselWorld, Mumbai.
+MUM-ENT-003: Get 2 tickets for the price of 1 at Inox, Mumbai.
+MUM-ENT-004: 10% off on concert tickets at NCPA, Mumbai.
+MUM-ENT-005: Save 15% on annual membership at Country Club, Mumbai.
+MUM-TRAN-001: ₹50 off on your first ride with Ola, Mumbai.
+MUM-TRAN-002: Flat 20% off on Uber rides in Mumbai.
+MUM-TRAN-003: Save ₹100 on your first Zoomcar booking, Mumbai.
+MUM-TRAN-004: Get 10% off on Rapido bike rides, Mumbai.
+MUM-TRAN-005: Flat ₹200 off on RedBus bookings, Mumbai.
+MUM-SHOP-001: 15% off on clothing at Lifestyle, Mumbai.
+MUM-SHOP-002: Save ₹500 on purchases above ₹3000 at Shoppers Stop, Mumbai.
+MUM-SHOP-003: Flat 10% off on electronics at Croma, Mumbai.
+MUM-SHOP-004: 5% cashback on fashion items at Central Mall, Mumbai.
+MUM-SHOP-005: Get ₹200 off on footwear at Bata, Mumbai.
+MUM-FOOD-001: 20% off on dine-in at Barbeque Nation, Mumbai.
+MUM-FOOD-002: Flat ₹150 off on Swiggy orders above ₹500, Mumbai.
+MUM-FOOD-003: Get 1 Free Pizza on purchase of 2 at Domino's, Mumbai.
+MUM-FOOD-004: 10% off on dine-in at Bademiya, Mumbai.
+MUM-FOOD-005: Save ₹100 on orders above ₹400 at Zomato, Mumbai.
+MUM-CARE-001: 15% off on beauty services at Naturals, Mumbai.
+MUM-CARE-002: Save ₹200 on spa services at O2 Spa, Mumbai.
+MUM-CARE-003: Flat 10% off on haircuts at Lakme Salon, Mumbai.
+MUM-CARE-004: 5% off on grooming products at Health & Glow, Mumbai.
+MUM-CARE-005: Get ₹100 off on wellness packages at Four Fountains Spa, Mumbai.
+MUM-HEALTH-001: Save ₹300 on annual gym membership at Talwalkars, Mumbai.
+MUM-HEALTH-002: Flat 15% off on health checkups at Apollo Hospitals, Mumbai.
+MUM-HEALTH-003: Get 10% off on yoga classes at Art of Living, Mumbai.
+MUM-HEALTH-004: ₹200 off on first consultation at Cloudnine Hospitals, Mumbai.
+MUM-HEALTH-005: Save 10% on fitness equipment at Decathlon, Mumbai.
+MUM-TRAVEL-001: Flat ₹500 off on flight bookings via MakeMyTrip, Mumbai.
+MUM-TRAVEL-002: 10% off on hotel bookings at OYO Rooms, Mumbai.
+MUM-TRAVEL-003: Save ₹1000 on international tours with Yatra, Mumbai.
+MUM-TRAVEL-004: ₹300 off on bus bookings with AbhiBus, Mumbai.
+MUM-TRAVEL-005: Get 5% off on travel insurance at PolicyBazaar, Mumbai.
+MUM-KIDS-001: 20% off on toys at Hamleys, Mumbai.
+MUM-KIDS-002: Save ₹200 on baby products at FirstCry, Mumbai.
+MUM-KIDS-003: Flat 10% off on kids' clothing at Mothercare, Mumbai.
+MUM-KIDS-004: 5% off on school supplies at Staples, Mumbai.
+MUM-KIDS-005: Get ₹100 off on kids' books at Crossword, Mumbai.
+MUM-HOME-001: 15% off on home decor at Home Centre, Mumbai.
+MUM-HOME-002: Save ₹500 on furniture at Pepperfry, Mumbai.
+MUM-HOME-003: Flat 10% off on kitchen appliances at Prestige, Mumbai.
+MUM-HOME-004: 5% cashback on home furnishings at Ikea, Mumbai.
+MUM-HOME-005: Get ₹200 off on bedding at D'Decor, Mumbai.
+DEL-GROC-001: Get 10% off on groceries at Big Bazaar, Delhi.
+DEL-GROC-002: Save ₹200 on your first order at Grofers, Delhi.
+DEL-GROC-003: Flat 5% off on groceries at More Supermarket, Delhi.
+DEL-GROC-004: Buy 1 Get 1 Free on select items at Ratnadeep, Delhi.
+DEL-GROC-005: 15% off on organic products at Nature's Basket, Delhi.
+DEL-ENT-001: 20% off on movie tickets at PVR Cinemas, Delhi.
+DEL-ENT-002: Flat ₹100 off on amusement park tickets at Adventure Island, Delhi.
+DEL-ENT-003: Get 2 tickets for the price of 1 at DT Cinemas, Delhi.
+DEL-ENT-004: 10% off on concert tickets at Siri Fort Auditorium, Delhi.
+DEL-ENT-005: Save 15% on annual membership at Country Club, Delhi.
+DEL-TRAN-001: ₹50 off on your first ride with Ola, Delhi.
+DEL-TRAN-002: Flat 20% off on Uber rides in Delhi.
+DEL-TRAN-003: Save ₹100 on your first Zoomcar booking, Delhi.
+DEL-TRAN-004: Get 10% off on Rapido bike rides, Delhi.
+DEL-TRAN-005: Flat ₹200 off on RedBus bookings, Delhi.
+DEL-SHOP-001: 15% off on clothing at Lifestyle, Delhi.
+DEL-SHOP-002: Save ₹500 on purchases above ₹3000 at Shoppers Stop, Delhi.
+DEL-SHOP-003: Flat 10% off on electronics at Croma, Delhi.
+DEL-SHOP-004: 5% cashback on fashion items at Central Mall, Delhi.
+DEL-SHOP-005: Get ₹200 off on footwear at Bata, Delhi.
+DEL-FOOD-001: 20% off on dine-in at Barbeque Nation, Delhi.
+DEL-FOOD-002: Flat ₹150 off on Swiggy orders above ₹500, Delhi.
+DEL-FOOD-003: Get 1 Free Pizza on purchase of 2 at Domino's, Delhi.
+DEL-FOOD-004: 10% off on dine-in at Karim's, Delhi.
+DEL-FOOD-005: Save ₹100 on orders above ₹400 at Zomato, Delhi.
+DEL-CARE-001: 15% off on beauty services at Naturals, Delhi.
+DEL-CARE-002: Save ₹200 on spa services at O2 Spa, Delhi.
+DEL-CARE-003: Flat 10% off on haircuts at Lakme Salon, Delhi.
+DEL-CARE-004: 5% off on grooming products at Health & Glow, Delhi.
+DEL-CARE-005: Get ₹100 off on wellness packages at Four Fountains Spa, Delhi.
+DEL-HEALTH-001: Save ₹300 on annual gym membership at Talwalkars, Delhi.
+DEL-HEALTH-002: Flat 15% off on health checkups at Apollo Hospitals, Delhi.
+DEL-HEALTH-003: Get 10% off on yoga classes at Art of Living, Delhi.
+DEL-HEALTH-004: ₹200 off on first consultation at Cloudnine Hospitals, Delhi.
+DEL-HEALTH-005: Save 10% on fitness equipment at Decathlon, Delhi.
+DEL-TRAVEL-001: Flat ₹500 off on flight bookings via MakeMyTrip, Delhi.
+DEL-TRAVEL-002: 10% off on hotel bookings at OYO Rooms, Delhi.
+DEL-TRAVEL-003: Save ₹1000 on international tours with Yatra, Delhi.
+DEL-TRAVEL-004: ₹300 off on bus bookings with AbhiBus, Delhi.
+DEL-TRAVEL-005: Get 5% off on travel insurance at PolicyBazaar, Delhi.
+DEL-KIDS-001: 20% off on toys at Hamleys, Delhi.
+DEL-KIDS-002: Save ₹200 on baby products at FirstCry, Delhi.
+DEL-KIDS-003: Flat 10% off on kids' clothing at Mothercare, Delhi.
+DEL-KIDS-004: 5% off on school supplies at Staples, Delhi.
+DEL-KIDS-005: Get ₹100 off on kids' books at Crossword, Delhi.
+DEL-HOME-001: 15% off on home decor at Home Centre, Delhi.
+DEL-HOME-002: Save ₹500 on furniture at Pepperfry, Delhi.
+DEL-HOME-003: Flat 10% off on kitchen appliances at Prestige, Delhi.
+DEL-HOME-004: 5% cashback on home furnishings at Ikea, Delhi.
+DEL-HOME-005: Get ₹200 off on bedding at D'Decor, Delhi.
